@@ -4,7 +4,7 @@ title: Kingsley #标题
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "吴文成|博客"  #站点描述，给搜索引擎看的
-baseurl: "http://kingsely.top"
+baseurl: ""
 url: "http://kingsely.top"  
 
 # About/contact

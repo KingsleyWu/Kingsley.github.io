@@ -1,16 +1,18 @@
-# Site settings
-title: 读立写生
+# Site settings #站点信息
+title: 吴文成的博客 #标题
+#subtitle:  #副标题
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
-baseurl: ""
-url: "http://cnfeat"  
+description: "吴文成|博客"  #站点描述，给搜索引擎看的
+baseurl: "http://kingsely.top"
+url: "http://kingsely.top"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Kingsley "
+  email: wwcaszyl@gmail.com
+  bio: "用于记录笔记"
+  language: zh-CN #语言
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png

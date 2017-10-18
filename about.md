@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: " 记录笔记 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,9 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
+我是Kingsley，Android应用开发，把自己平时做app的一些坑,解决的问题记录下来,记录下自己前进的过程....
 
 ###坚信
 
@@ -25,24 +23,12 @@ header-img: "img/green.jpg"
 
 ###关注：
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
+- [郭霖的博客](http://blog.csdn.net/guolin_blog)
+- [夏安明的博客](http://blog.csdn.net/xiaanming)
+- [任玉刚的博客](http://blog.csdn.net/singwhatiwanna)
+- [亓斌的博客](http://blog.csdn.net/qibin0506)
+- [OpenCV大神shiter的博客](http://blog.csdn.net/wangyaninglm)
+- [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=16)
 
 ###我的朋友们
 
@@ -53,16 +39,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
-
+- [博客：www.kingsely.top](www.kingsely.top)
 
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>

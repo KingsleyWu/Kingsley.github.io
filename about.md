@@ -12,7 +12,7 @@ header-img: "img/green.jpg"
 
 我是Kingsley，Android应用开发，把自己平时做app的一些坑,解决的问题记录下来,记录下自己前进的过程....
 
-###坚信
+### 坚信
 
 
 - 元认知乃一切之源
@@ -21,7 +21,7 @@ header-img: "img/green.jpg"
 - 「持续」并不是坚持，写就是最好的回报
 
 
-###关注：
+### 关注：
 
 - [罗升阳](http://my.csdn.net/luoshengyang)
 - [郭霖的博客](http://blog.csdn.net/guolin_blog)
@@ -31,14 +31,7 @@ header-img: "img/green.jpg"
 - [OpenCV大神shiter的博客](http://blog.csdn.net/wangyaninglm)
 - [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=16)
 
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
+### 联系
 
 - [博客：www.kingsely.top](www.kingsely.top)
 

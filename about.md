@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 
 ### 关注：
 
-- [罗升阳](http://my.csdn.net/luoshengyang)
+- [罗升阳](http://my.csdn.net/luoshengyang) <font color='blue'>text</font>
 - [郭霖的博客](http://blog.csdn.net/guolin_blog)
 - [夏安明的博客](http://blog.csdn.net/xiaanming)
 - [任玉刚的博客](http://blog.csdn.net/singwhatiwanna)

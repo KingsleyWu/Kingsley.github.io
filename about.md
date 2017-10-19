@@ -33,7 +33,7 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客：kingsely.top](www.kingsely.top)
+- [博客：www.kingsely.top](http://www.kingsely.top)
 
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>

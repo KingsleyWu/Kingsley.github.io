@@ -25,11 +25,13 @@ header-img: "img/green.jpg"
 <font color='blue'></font>
 - [罗升阳](http://my.csdn.net/luoshengyang) 
 - [郭霖的博客](http://blog.csdn.net/guolin_blog)
+- [严振杰](http://blog.csdn.net/yanzhenjie1003)
 - [夏安明的博客](http://blog.csdn.net/xiaanming)
 - [任玉刚的博客](http://blog.csdn.net/singwhatiwanna)
 - [亓斌的博客](http://blog.csdn.net/qibin0506)
 - [OpenCV大神shiter的博客](http://blog.csdn.net/wangyaninglm)
 - [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=16)
+
 
 ### 联系
 
